@@ -16,7 +16,7 @@ Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in:
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiru110&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiru110&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 ## Project Activity
 

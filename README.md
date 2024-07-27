@@ -14,6 +14,15 @@ Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in:
 🔧 **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, Java, MySQL, Python.
 
 
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiru110&show_icons=true&count_private=true)
+
+## Project Activity
+
+![Commit Activity](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fcommit-activity%2Fm%2FThiru110%2FTHH_Current)
+
+
 📫 **Let's Connect**:
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Email](mailto:your.email@example.com)

@@ -18,11 +18,6 @@ Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiru110&show_icons=true&count_private=true&hide_title=true&theme=dark)
 
-## Project Activity
-
-![Commit Activity](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fcommit-activity%2Fm%2FThiru110%2FTHH_Current)
-![Static Badge](https://img.shields.io/badge/!%5BCommit%20Activity%5D(https%3A%2F%2Fimg.shields.io%2Fgithub%2Fcommit-activity%2Fm%2FThiru110%2FAttendance_Task_Mngmt))
-
 
 📫 **Let's Connect**:
 - [LinkedIn](https://www.linkedin.com/in/your-profile)

@@ -1,6 +1,6 @@
 # Hi, I'm Thiru!
 
-Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in:
+Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in
 
 - **React**: Building dynamic web applications.
 - **Node.js**: Server-side programming.

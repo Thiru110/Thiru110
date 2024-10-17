@@ -20,5 +20,5 @@ Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in
 
 
 📫 **Let's Connect**:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn]((https://www.linkedin.com/in/thiru110/))
+- [Email](mailto:thiruma5133@gmail.com)
